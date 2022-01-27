@@ -1,3 +1,3 @@
-template用
+* template用
 
-prettier, eslint, chakra-uiを設定済
+* prettier, eslint, chakra-uiを設定済
